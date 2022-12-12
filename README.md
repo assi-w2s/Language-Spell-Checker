@@ -1,4 +1,4 @@
-# Spell-Checker
+# Language Spell-Checker
 A noisy-channel based NLP Spell Checker.
 
 This is a noisy-channel based spell checker, which is a type of spelling correction model that uses the noisy channel model to identify and correct spelling errors in natural language text. The noisy channel model is a well-known approach in natural language processing (NLP) that assumes that the observed text is the result of a noisy channel, where the original intended message is distorted by various sources of noise, such as spelling errors, typos, and other errors.
